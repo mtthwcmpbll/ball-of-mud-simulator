@@ -1,0 +1,17 @@
+{
+  "name": "mud-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Campbell",
+  "dependencies": {
+    "@neo4j/graphql-ogm": "^3.24.0",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.20.0",
+    "neo4j-driver": "^5.10.0"
+  }
+}
